@@ -1,0 +1,1 @@
+Problem Statement: To Create a thorough financial model that forecasts sales, revenue, and profitability for smartphones based on a number of variables, including unit sales, pricing, manufacturing costs, marketing expenditures, and market trends.
